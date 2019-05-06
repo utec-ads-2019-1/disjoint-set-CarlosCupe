@@ -22,7 +22,6 @@ struct Node {
         parent = ptr;
         return ptr;
     }
-
 };
 
 vector<Node*> sets;
